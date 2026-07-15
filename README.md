@@ -54,23 +54,20 @@ Requires Python 3.13 + Pygame 2.6.1.
 ---
 
 ## 📁 Project Structure
-Danger_Maze_Game/
-├── Game_launch.py
-├── requirements.txt
-└── assets/
-├── backgrounds/
-├── characters/
-│   ├── archer/
-│   │   ├── move/
-│   │   ├── aiming/
-│   │   └── died/
-│   ├── ork/
-│   ├── red_dragon/
-│   └── great_dragon/
-├── environment/
-├── hazards/
-├── mechanisms/
-└── projectiles/
+
+- `Game_launch.py` — main entry point
+- `requirements.txt`
+- `assets/`
+  - `backgrounds/`
+  - `characters/`
+    - `archer/` → `move/`, `aiming/`, `died/`
+    - `ork/`
+    - `red_dragon/`
+    - `great_dragon/`
+  - `environment/`
+  - `hazards/`
+  - `mechanisms/`
+  - `projectiles/`
 
 ---
 
