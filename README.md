@@ -1,4 +1,10 @@
-# 🗡️ Danger Maze Game
+Good progress — the fences around Project Structure are now correct (opens before Danger_Maze_Game/, closes after projectiles/). Two small things left:
+
+Double --- right after the closing ``` fence and before "What's Next" — two dash-lines in a row where only one is needed.
+Indentation still not applied — backgrounds/, characters/, environment/, hazards/, mechanisms/, projectiles/ are all sitting at the same column as assets/ itself, instead of indented under it. You didn't paste in the indentation fix from my last message.
+
+Since you're right that spacing matters here and back-and-forth patches keep missing something — here's the complete file, start to finish, ready to copy in one shot:
+markdown# 🗡️ Danger Maze Game
 
 A 2D maze survival game built with Python and Pygame.
 
@@ -61,6 +67,9 @@ Danger_Maze_Game/
 ├── backgrounds/
 ├── characters/
 │   ├── archer/
+│   │   ├── move/
+│   │   ├── aiming/
+│   │   └── died/
 │   ├── ork/
 │   ├── red_dragon/
 │   └── great_dragon/
@@ -80,6 +89,6 @@ Danger_Maze_Game/
 
 ## 👤 Author
 
-**Ibrahim Mejjadi** : Digital Infrastructure Student, CMC Tangier
+**Ibrahim Mejjadi** — Digital Infrastructure Student, CMC Tangier
 🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
 📧 Email: ibrahim.mejjadi@gmail.com
