@@ -80,5 +80,6 @@ Danger_Maze_Game/
 
 ## 👤 Author
 
-**Ibrahim Mejjadi** — Digital Infrastructure Student, CMC Tangier
-🔗 [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi) · [github.com/ibrahimmejjadi](https://github.com/ibrahimmejjadi)
+**Ibrahim Mejjadi** : Digital Infrastructure Student, CMC Tangier
+🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+📧 Email: ibrahim.mejjadi@gmail.com
