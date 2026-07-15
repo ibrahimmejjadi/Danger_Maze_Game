@@ -74,7 +74,10 @@ Requires Python 3.13 + Pygame 2.6.1.
 ## 🔮 What's Next
 
 - [ ] Demo video / gameplay footage
-- [ ] A next level after the portal; right now, reaching it ends the run. That won't always be true.
+- [ ] Multiple levels: right now the game ends at the portal, that won't always be true
+- [ ] Camera system: a bigger map than the current screen size, with the view following the player
+- [ ] Zoom on the camera
+- [ ] A lighting/shadow effect: visible radius around the player, rest of the map dark
 
 ---
 
