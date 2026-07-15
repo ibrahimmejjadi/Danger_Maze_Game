@@ -6,7 +6,7 @@ A 2D maze survival game built with Python and Pygame.
 
 ## 💡 The Setup
 
-You're the hero. Somewhere at the end of a hostile desert maze, there's a portal — your way out.
+You're the hero. Somewhere at the end of a hostile desert maze, there's a portal → your way out.
 
 Between you and it: Orks that won't stop walking toward you, a Dragon that attacks from range, spike traps, cannons that fire on a timer, and a Great Dragon boss with more than one way to kill you depending on how close you get.
 
@@ -37,8 +37,8 @@ You → move through the maze → dodge/fight enemies → reach the portal → s
 | Dragon | Ranged fireball attacks |
 | Great Dragon (boss) | Idle → battle → melee/ranged attack phases, depending on distance |
 | Spike hazards | Instant lethal damage on contact |
-| Cannons | Fire on a timer — timing matters |
-| Laser gates | Open/close — mistime it, you're dead |
+| Cannons | Fire on a timer; timing matters |
+| Laser gates | Open/close; mistime it, you're dead |
 
 ---
 
@@ -74,7 +74,7 @@ Danger_Maze_Game/
 ## 🔮 What's Next
 
 - [ ] Demo video / gameplay footage
-- [ ] A next level after the portal — right now, reaching it ends the run. That won't always be true.
+- [ ] A next level after the portal; right now, reaching it ends the run. That won't always be true.
 
 ---
 
