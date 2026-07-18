@@ -15,6 +15,14 @@ You → move through the maze → dodge/fight enemies → reach the portal → s
 
 ---
 
+## 🗺️ Design Process
+
+Before writing any code, I sketched the maze layout by hand: wall positions, hazard placement, and enemy zones, then built the code around that plan.
+
+![Maze design sketch](docs/maze_sketch.jpg)
+
+---
+
 ## 📺 Demo Video
 *(coming soon)*
 
