@@ -89,7 +89,7 @@ Requires Python 3.13 + Pygame 2.6.1.
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
 
