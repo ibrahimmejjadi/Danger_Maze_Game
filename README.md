@@ -91,6 +91,7 @@ Requires Python 3.13 + Pygame 2.6.1.
 
 ## 👤 Author
 
-**Ibrahim Mejjadi** — Digital Infrastructure Student, CMC Tangier
+**Ibrahim Mejjadi**: Digital Infrastructure Student, CMC Tangier
 🔗 LinkedIn: [linkedin.com/in/ibrahimmejjadi](https://linkedin.com/in/ibrahimmejjadi)
+
 📧 Email: ibrahim.mejjadi@gmail.com
